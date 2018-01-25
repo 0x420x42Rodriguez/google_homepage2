@@ -1,0 +1,77 @@
+
+body, html {
+			-webkit-appearance: none;
+			-moz-appearance: none;
+			height: 100px;
+			margin: 0;
+			font-family: arial
+		}
+
+ul.header {						/*applies to all UL elements in the header and footer */
+    		width: auto;
+    		margin: 0px;
+    		padding: 0px;
+    		list-style-type: none;
+
+		}
+
+#signin_button {
+	-moz-appearance: button;
+}
+
+#topnav_bar {
+    position: relative;
+    width: 71px;
+    right: 25px;
+    display: block;
+    float: right;
+    padding: 8px;
+    text-align: center;
+}
+
+#logo {
+    position: relative;
+    width: auto;
+    left: 438px;
+    margin-bottom: 10px;
+    width: 31%;
+    top: 32px;
+}
+
+#search {
+    position: relative;
+    left: 475px;
+    width: 300px;
+}
+
+#btn {
+    position: relative;
+    left: 475px;
+    top: 35px;
+    left: 202px;
+}
+
+
+#fleft {
+    position: relative;
+    width: 87px;
+    right: 39px;
+    top: 290px;
+    float: left;
+    display: inline;
+    padding: 8px;
+    text-align: center;
+}
+
+#fright {
+    position: relative;
+    width: 55px;
+    right: 0px;
+    top: 290px;
+    float: right;
+    display: inline;
+    padding: 8px;
+    text-align: center;
+}
+
+
